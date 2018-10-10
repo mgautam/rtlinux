@@ -1,0 +1,3 @@
+[submodule "xenomai-3.0.7"]
+	path = xenomai-3.0.7
+	url = https://gitlab.denx.de/Xenomai/xenomai
